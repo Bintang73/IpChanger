@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Change IP.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Change IP.exe
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Change IP.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Change IP.xml
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ChangeIPBintangNurPradana.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ChangeIPBintangNurPradana.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Change IP.exe
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Change IP.xml
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Change IP.pdb
